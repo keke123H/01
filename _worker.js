@@ -3,7 +3,7 @@ import { connect } from 'cloudflare:sockets';
 // ================= [ 核心配置 ] =================
 const _U = '3d8e92a1-f5b2-4c67-8d9e-1a2b3c4d5e6f'; 
 const _P = '/api/v1/internal/resource/query'; 
-const _PROXY_IP = 'visa.com'; // Cloudflare 日本官方 IP
+const _PROXY_IP = 'www.gov.se'; // Cloudflare 日本官方 IP
 const _ECH_D = 'cloudflare-ech.com';              
 const _ECH_N = 'https://cloudflare-dns.com/dns-query'; 
 // ===============================================
