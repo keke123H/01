@@ -120,5 +120,5 @@ async function _REMOTE_TO_WS(remote, ws, header) {
 }
 
 function _BING_SITE() {
-    return `<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>Bing</title><style>body,html{height:100%;margin:0;font-family:Segoe UI,system-ui;overflow:hidden}.bg{background-image:url('
-              
+    return `<!DOCTYPE html><html lang="zh-CN"><head><meta charset="UTF-8"><title>Bing</title><style>body,html{height:100%;margin:0;font-family:Segoe UI,system-ui;overflow:hidden}.bg{background-image:url('https://bing.biturl.top/?resolution=1920&format=image&index=0&mkt=zh-CN');height:100%;background-position:center;background-size:cover;display:flex;flex-direction:column;align-items:center;justify-content:center}.search{background:rgba(255,255,255,.9);width:min(560px,90%);height:44px;border-radius:22px;display:flex;align-items:center;padding:0 18px;box-shadow:0 8px 15px rgba(0,0,0,.1)}.logo{color:#fff;font-size:36px;font-weight:700;margin-bottom:24px;text-shadow:0 2px 10px rgba(0,0,0,.3)}</style></head><body><div class="bg"><div class="logo">Bing</div><div class="search"><input type="text" placeholder="搜索 Web..." readonly></div></div></body></html>`;
+}
