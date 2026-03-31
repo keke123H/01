@@ -12,7 +12,7 @@ const _U = '3d8e92a1-f5b2-4c67-8d9e-1a2b3c4d5e6f';
 // 2. 秘密入口路径
 const _P = '/api/v1/internal/resource/query'; 
 // 3. 优选节点域名 (若此域名不通，代码会自动切换到直连)
-const _PROXY_IP = 'mfa.gov.ua'
+const _PROXY_IP = 'cdns.doon.eu.org'
 // 4. ECH 参数
 const _ECH_D = 'cloudflare-ech.com';              
 const _ECH_N = 'https://cloudflare-dns.com/dns-query'; 
