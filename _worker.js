@@ -10,7 +10,7 @@ import { connect } from 'cloudflare:sockets';
 const _U = '3d8e92a1-f5b2-4c67-8d9e-1a2b3c4d5e6f'; // 你的 UUID
 const _P = '/api/v1/internal/resource/query';    // 你的 WS 路径
 const _ECH_D = 'cloudflare-ech.com';              // ECH 公共域名
-const _ECH_N = 'https://https://cloudflare-dns.com/dns-quer'; // ECH 配置地址
+const _ECH_N = 'https://cloudflare-dns.com/dns-quer'; // ECH 配置地址
 // ==========================================
 
 export default {
