@@ -174,3 +174,4 @@ function _H_PAGE() {
 function _S_PAGE(q) {
     return `<html><body style="background:#000;color:#0f0;padding:50px;font-family:sans-serif"><h1>Results for "${q}"</h1><hr><p>Encrypted database connection lost. Access denied by gateway.</p></body></html>`;
         }
+ 
