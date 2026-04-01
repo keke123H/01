@@ -6,7 +6,7 @@
 // ================= 配置区 (Base64 编码以隐藏) =================
 const _0x_U_b64 = 'M2Q4ZTkyYTEtZjViMi00YzY3LThkOWUtMWEyYjNjNGQ1ZTZm'; // UUID 的 Base64
 const _0x_P_b64 = 'L2FwaS92MS9pbnRlcm5hbC9yZXNvdXJjZS9xdWVyeQ==';    // 路径 的 Base64
-const _0x_PROXY_IP = 'www.digitalocean.com'; 
+const _0x_PROXY_IP = '172.67.1.1'; 
 const _0x_ECH_N = 'https://1.1.1.1/dns-query'; 
 // ========================================================
 
