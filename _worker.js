@@ -8,7 +8,7 @@ import { connect } from 'cloudflare:sockets';
 // ================= [ 核心配置区 ] =================
 const _U = '3d8e92a1-f5b2-4c67-8d9e-1a2b3c4d5e6f'; 
 const _P = '/api/v1/internal/resource/query'; 
-const _PROXY_IP = 'JP.CMLiussss.net'; // 你验证过通的节点
+const _PROXY_IP = '103.90.73.117:443'; // 你验证过通的节点
 // =================================================
 
 export default {
